@@ -197,3 +197,5 @@ uvicorn==0.38.0 ; sys_platform != 'emscripten'
     # via mcp
 websockets==15.0.1
     # via fastmcp
+openai==2.8.0
+    # via fastmcp
